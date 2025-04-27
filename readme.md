@@ -56,7 +56,7 @@ Universal and lightweight template for your bot built with `aiogram`. Easily add
 3. **Configure your bot**:
    - Create a `.env` file in the project root:
      ```ini
-     BOT_TOKEN="yourbottoken"
+     BOT_TOKEN=yourbottoken
      ```
 
 ---
